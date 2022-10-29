@@ -1,0 +1,1 @@
+this is A simple python project I wrote to simulation I wrote for a school project about probabilities in blackjack you can see the repoort at https://docs.google.com/document/d/1mqCWmSBzIZ9urP4ih11PphPQvqGiUqRSHGhfjYbjMDs/edit?usp=sharing
